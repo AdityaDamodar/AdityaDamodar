@@ -18,9 +18,9 @@ I'm a passionate **Web Developer** crafting digital experiences with **Laravel**
 
 ## 📊 GitHub Stats
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDamodar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDamodar&layout=compact&theme=radical)
 
 ---
 
