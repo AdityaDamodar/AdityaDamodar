@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello there! I'm Aditya
 
-<!--
-**AdityaDamodar/AdityaDamodar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
-Here are some ideas to get you started:
+I'm a passionate **Web Developer** crafting digital experiences with **Laravel**, **PHP**, **ReactJS**, and **JavaScript**. I love turning ideas into real-world, scalable solutions — one line of code at a time. When I'm not coding, I’m probably debugging life’s logic errors. 🧠💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- 💻 **Languages:** PHP, JavaScript, HTML, CSS, SQL , ReactJS 
+- 🧰 **Frameworks & Libraries:** Laravel, Blade, jQuery, Bootstrap  
+- 🗃️ **Databases:** MySQL, SQLite, PostgreSQL
+- 🔧 **Tools:** Git, Postman, VS Code, Figma  
+- ☁️ **Other:** REST APIs, AJAX, Webhooks  
+
+---
+
+## 📊 GitHub Stats
+
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
+- 📧 Reach me at: adityardamodar@gmail.com  
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+---
