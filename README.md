@@ -27,8 +27,8 @@ I'm a passionate **Web Developer** crafting digital experiences with **Laravel**
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/aditya-damodar24)  
-- 🌐 [Portfolio]([https://yourportfolio.com](https://adityadamodar.github.io/My-Portfolio/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/aditya-damodar24/])  
+- 🌐 [Portfolio]([https://adityadamodar.github.io/My-Portfolio/])  
 - 📧 Reach me at: adityardamodar@gmail.com  
 
 ---
