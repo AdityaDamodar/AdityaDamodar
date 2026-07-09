@@ -68,23 +68,9 @@ I'm passionate about building scalable, secure, and user-friendly web applicatio
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-damodar24">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AdityaDamodar">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://adityadamodar.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:adityardamodar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-damodar24/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityadamodar.github.io/My-Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityardamodar@gmail.com)
 ---
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
