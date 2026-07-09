@@ -1,55 +1,85 @@
-# 👋 Hello there! I'm Aditya
+# 👋 Hi, I'm Aditya Damodar
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 
-🚀 MERN Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+🚀 **Full Stack Web Developer** | **MERN Stack** | **PHP (Laravel & CodeIgniter)**
 
-I enjoy developing full-stack applications using React.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean, efficient code and continuously learning new technologies to improve my skills.
-
----
-
-## 💻 Tech Stack
-Frontend
-⚛️ React.js
-⚡ JavaScript (ES6+)
-🎨 HTML5, CSS3
-🅱️ Bootstrap, Tailwind CSS
-Backend
-🟢 Node.js
-🚂 Express.js
-🔐 JWT Authentication
-🌐 REST APIs
-Database
-🍃 MongoDB
-🐬 MySQL
-Tools & Technologies
-Git & GitHub
-VS Code
-Postman
-MongoDB Atlas
-Vercel
-Render
-Figma  
+I'm passionate about building scalable, secure, and user-friendly web applications using modern technologies. I enjoy working across both frontend and backend, developing REST APIs, designing responsive interfaces, and solving real-world problems through clean, efficient code.
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaDamodar&show_icons=true&theme=radical)
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDamodar&layout=compact&theme=radical)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+</p>
 
 ---
 
+# 🚀 Featured Projects
 
-## 📫 Let's Connect
+### 📌 LeaveFlow
+**Full Stack MERN Leave Management System**
+- JWT Authentication
+- Role-Based Access Control
+- MongoDB Atlas
+- React + Node.js + Express.js
+- Responsive Dashboard
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-damodar24/)  
-- 🌐 [Portfolio](https://adityadamodar.github.io/My-Portfolio/)  
-- 📧 Reach me at: adityardamodar@gmail.com  
+### 📌 Acadex
+**Smart Campus Management System**
+- PHP & CodeIgniter
+- Student, Faculty & Admin Modules
+- Complaint & Event Management
+- Document Management
+
+### 📌 Expenzo
+**Expense Tracker Web Application**
+- Expense Tracking
+- Dashboard & Reports
+- Responsive UI
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDamodar&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDamodar&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-damodar24/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://adityadamodar.github.io/My-Portfolio/" target="_blank">
+🌐 Portfolio
+</a>
+
+📧 **Email:** adityardamodar@gmail.com
+</p>
+
+---
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
